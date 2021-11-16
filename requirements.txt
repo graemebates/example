@@ -1,0 +1,5 @@
+Flask==1.1.4
+Werkzeug==1.0.1
+boto3==1.20.6
+dynamodbgeo==0.0.3
+
