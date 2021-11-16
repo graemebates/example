@@ -17,4 +17,4 @@ Get user's saved properties
 Get featured properties 
 
 ## Entity diagram
-[Entity diagram for this project](assets/entity_diagram.png)
+![Entity diagram for this project](assets/entity_diagram.png)
