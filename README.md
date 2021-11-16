@@ -1,4 +1,4 @@
-# Serverless Framework Python Flask API service backed by DynamoDB on AWS
+# Example Python API using Flask and DynamoDB
 
 This template demonstrates how to develop and deploy a simple Python Flask API service, backed by DynamoDB, running on AWS Lambda using the traditional Serverless Framework.
 
